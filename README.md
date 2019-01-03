@@ -60,3 +60,6 @@ How To Contribute
  * Create an issue if you have any problem when using project or you find a bug, etc.
  * What you can do: translation, write document, wiki, find or fix bugs, give your idea for this project etc.
  * If you want to join the project developed together, please send e-mail to me.
+ 
+ #----mingge
+ 32-bit can use,but 64-bit can't use by 2019.1.3
