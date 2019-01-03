@@ -5,6 +5,7 @@
 #include <QFontDatabase>
 #include <QFileDialog>
 #include <QStyledItemDelegate>
+#include <QButtonGroup>
 
 DownloadFunctionTableWidget::DownloadFunctionTableWidget(QWidget *parent)
     : DownloadAbstractTableWidget(parent)
